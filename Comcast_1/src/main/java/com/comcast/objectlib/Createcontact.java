@@ -9,8 +9,8 @@ public class Createcontact {
 		System.out.println("execute create contact");
 	}
 	@Test
-public void CreateconactwithMoile()
+public void CreateOrganization()
 {
-		System.out.println("execute createcontactwithmobile");
+		System.out.println("execute createOrganization");
 }
 }
