@@ -13,4 +13,9 @@ public class Createcontact {
 	{
 			System.out.println("createcontact");
 	}
+	public void createcontact(String Mobile, String ContactNUm)
+	{
+			System.out.println("createcontact");
+	}
 }
+
