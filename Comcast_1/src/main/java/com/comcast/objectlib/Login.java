@@ -1,4 +1,4 @@
-package com.comcast.contacttest;
+package com.comcast.objectlib;
 
 import org.testng.annotations.Test;
 
