@@ -9,8 +9,15 @@ public class Createcontact {
 		System.out.println("execute create contact");
 	}
 	@Test
+
 public void CreateOrganization(String OrganizationName)
 {
 		System.out.println("execute createOrganization");
 }
+
+	public void createcontact(String Mobile)
+	{
+			System.out.println("createcontact");
+	}
+
 }
